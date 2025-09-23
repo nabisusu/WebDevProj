@@ -6,3 +6,17 @@ h1{
     padding: 0%;
     text-align: center;
 }
+.side-by-side-container {
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+p {
+    margin: 3;
+    padding: 2;
+    font-style: black;
+    font-size: 18px;
+    font-weight: bold;
+
+}
