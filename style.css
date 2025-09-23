@@ -7,7 +7,10 @@ h1{
     text-align: center;
 }
 .side-by-side-container {
+    display: flex;
+    gap: 20px;
     justify-content: space-around;
+    align-items: flex-start;
 }
 p {
     margin: 3;
