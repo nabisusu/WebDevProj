@@ -6,6 +6,9 @@ h1{
     padding: 0%;
     text-align: center;
 }
+.side-by-side-container {
+    justify-content: space-around;
+}
 p {
     margin: 3;
     padding: 2;
